@@ -12,5 +12,5 @@ https://zezhongdev.github.io/elui/Tabs/tabs2
 tabs3面向对象封装
 https://zezhongdev.github.io/elui/Tabs/tabs3
 
-### Collapse 模仿手风琴效果
+### Collapse 模仿折叠面板效果
 https://zezhongdev.github.io/elui/Collapse/Collapse
